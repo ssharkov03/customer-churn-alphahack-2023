@@ -1,6 +1,6 @@
 # customer-churn-alphahack
 
-q
+
 
 ## Getting started
 
