@@ -139,6 +139,7 @@ class OkvedHandler:
 
 
 class InfoHandler:
+    @staticmethod
     def get_cols_info(df):
         cat_cols = list(df.select_dtypes(exclude=["number","bool_"]).columns) 
         num_cols = list(set(df.columns).difference(set(cat_cols)))
