@@ -1,4 +1,5 @@
 ### Description
+**Team**: `ES` - *Igor Vdovin, Timur Enikeev, Nikita Usachev, Sergey Sharkov  (me)*  
 **Tools:** LightGBM, CatBoost, XGBoost, AutoML, Scikit-Learn, Pandas, Optuna, Shap  
 **Concepts:** Ensembling, Cross-validation, Classifier calibration, Extracting business features, Feature importance analysis, Time Series Analysis    
 
